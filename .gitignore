@@ -1,0 +1,13 @@
+# IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Temp files
+*~
+
+# Apple MacOS hidden file
+.DS_Store
+
+public/
