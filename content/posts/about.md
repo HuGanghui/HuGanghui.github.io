@@ -12,6 +12,3 @@ I contribute to open-source projects. &nbsp;
 [✏️ checkstyle](https://github.com/checkstyle/checkstyle) &nbsp;
 [☀️ patch-filters](https://github.com/checkstyle/patch-filters) &nbsp;
 
-More about me. &nbsp;
-[Academic Profile]({{< ref "/posts/academic" >}} "Academic Profile") &nbsp;
-[Résumé (Chinese)](./posts/hugh_cv.pdf)
